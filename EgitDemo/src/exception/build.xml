@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project name="ExceptionBuild" default="test1" basedir=".">
+	<target name="test1">
+	<echo> test</echo>
+	</target>
+	
+	<target name="test2">
+	<echo> test2</echo>
+	</target>
+	
+	<target name="delete">
+		<delete dir="bin"></delete>
+		<delete dir="src"></delete>
+		<delete dir="lib"></delete>
+	</target>
+	
+	
+	<target name="create" depends="delete">
+		<mkdir dir="bin"></mkdir>
+		<mkdir dir="src"></mkdir>
+		<mkdir dir="lib"></mkdir>
+	</target>
+	
+	
+	<target name="compile" depends="create">
+		<javac srcdir="D:\Documents\MEGA\Eclipse\AutoBuild\src" destdir="D:\Documents\MEGA\Eclipse\AutoBuild\ant\build\bin"  includeantruntime="false" compiler="modern"  ></javac>
+	</target>
+	
+	<target name="run" depends="compile">
+		<java classname="DateUtils"> 
+			<classpath path="D:\Documents\MEGA\Eclipse\AutoBuild\ant\build\bin"/>
+		</java>
+	</target>
+	<!-- Overwrite existing files even if the destination files are newer. overwrite="true"
+	todir (The directory to which you want to copy.)
+	A FileSet is a group of files. These files can be found in a directory tree starting in a base directory and 
+	are matched by patterns  taken from a number of PatternSets and Selectors.
+	The rules are:
+
+a single star (*) matches zero or more characters within a path name
+a double star (**) matches zero or more characters across directory levels
+a question mark (?) matches exactly one character within a path name
+Another way to think about it is double star (**) matches slash (/) but single star (*) does not.
+
+Let's say you have the files:
+
+bar.txt
+src/bar.c
+src/baz.c
+src/test/bartest.c
+Then the patterns:
+
+*.c             matches nothing (there are no .c files in the current directory)
+src/*.c     matches 2 and 3
+*/*.c         matches 2 and 3 (because * only matches one level)
+**/*.c       matches 2, 3, and 4 (because ** matches any number of levels)
+bar.*         matches 1
+**/bar.*   matches 1 and 2
+**/bar*.* matches 1, 2, and 4
+src/ba?.c matches 2 and 3    
+	
+	 -->
+	
+
+
+</project>

@@ -38,7 +38,6 @@ public class Newclass2 {
 				ex.printStackTrace();
 			}
 		}
-		System.out.println("Mehwish murtaza fa12-bse-196");
 		
 		
 
