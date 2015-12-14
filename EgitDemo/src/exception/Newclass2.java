@@ -37,7 +37,15 @@ public class Newclass2 {
 				System.err.println("An IOException was caught!");
 				ex.printStackTrace();
 			}
+			//Bluetooth is Enabled
 		}
+<<<<<<< HEAD
+=======
+		
+	
+	
+
+>>>>>>> branch 'master' of https://github.com/bushra-qadir/Exception.git
 		
 		
 
