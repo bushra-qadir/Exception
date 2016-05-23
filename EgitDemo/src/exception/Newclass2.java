@@ -17,6 +17,9 @@ public class Newclass2 {
 		//file.createNewFile();
 		try {
 			// Open the file for reading.
+			System.out.println("Ali imtiaz");
+			System.out.println("sp13-bse-005");
+			
 			rd = new BufferedReader(new FileReader(new File(filename)));
 			
 			// Read all contents of the file.
