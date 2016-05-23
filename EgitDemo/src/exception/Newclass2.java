@@ -37,7 +37,10 @@ public class Newclass2 {
 				System.err.println("An IOException was caught!");
 				ex.printStackTrace();
 			}
+			System.out.println("name Najeebullah");
+			System.out.println("Reg sp13-bse-076");
 			
 		}
 	}
+
 }
