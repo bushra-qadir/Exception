@@ -10,12 +10,15 @@ public class Newclass2 {
 	
 	private static final String filename = "input.txt";
 	
-	public static void main(String[] args) throws IOException //throws IOException
 	
+	public static void main(String[] args) throws IOException //throws IOException
+
 
 	{
 
-	
+
+	{
+
 
 		BufferedReader rd = null;
 		File file=new File(filename);
@@ -49,19 +52,53 @@ public class Newclass2 {
 				System.err.println("An IOException was caught!");
 				ex.printStackTrace();
 			}
+
+			System.out.println("Sofware Construction Lab");
+			System.out.println("Name::Sohail...........++........RegNum::Sp13-Bse-083");
+			
+
 			System.out.println("Bushra here, please enter your commits below");
 			System.out.println("NIAZ AHMAD, roll number:SP13-BSE-063");
+
+
 		}
+
 
 		System.out.println("M.Bilal");
 		System.out.println("Sp13-bse-106");
 
+		System.out.println("Usman Alam ");
+		System.out.println("sp13-bse-077");
+		
+
+		}
+
+		System.out.println("Hamaad chaudhery");
+		System.out.println("Sp13-bse-099");
+
+
 		System.out.println("Committed By Me---- Ahmed ALI Sp13-Bse-081");
+
 
 }
 		
 
 
+
+
+		
+
+
 	
+
+
+
 		}
+
+
+
+
+
+
+
 
