@@ -12,11 +12,15 @@ public class Newclass2 {
 	
 	public static void main(String[] args) throws IOException //throws IOException
 	{
+	
 		BufferedReader rd = null;
 		File file=new File(filename);
 		//file.createNewFile();
 		try {
 			// Open the file for reading.
+			System.out.println("Ali imtiaz");
+			System.out.println("sp13-bse-005");
+			
 			rd = new BufferedReader(new FileReader(new File(filename)));
 			
 			// Read all contents of the file.
@@ -30,7 +34,12 @@ public class Newclass2 {
 		}
 		finally {
 			// Close the file.
+<<<<<<< HEAD
 			System.out.println("naima ibrar, fa12-bse-031");
+=======
+			System.out.println("Mustafa here, please enter your commits below (sp13-bse-092)");
+
+>>>>>>> branch 'master' of https://github.com/bushra-qadir/Exception
 			try {
 				rd.close();
 			}
@@ -38,7 +47,18 @@ public class Newclass2 {
 				System.err.println("An IOException was caught!");
 				ex.printStackTrace();
 			}
+<<<<<<< HEAD
 				}
+=======
+			
+		}
+
+		
+
+>>>>>>> branch 'master' of https://github.com/bushra-qadir/Exception
 	}
+	
+	
+	
 }
 
