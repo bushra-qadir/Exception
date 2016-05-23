@@ -58,6 +58,11 @@ public class Newclass2 {
 <<<<<<< HEAD
 >>>>>>> branch 'master' of https://github.com/bushra-qadir/exception
 		}
+<<<<<<< HEAD
+		System.out.println("Usman Alam ");
+		System.out.println("sp13-bse-077");
+		
+=======
 =======
 		}
 
@@ -71,9 +76,14 @@ public class Newclass2 {
 		System.out.println("SP13-bse-123");
 >>>>>>> branch 'master' of https://github.com/bushra-qadir/exception
 
+>>>>>>> branch 'master' of https://github.com/bushra-qadir/Exception
 	}
 <<<<<<< HEAD
+<<<<<<< HEAD
 
+=======
+	
+>>>>>>> branch 'master' of https://github.com/bushra-qadir/Exception
 =======
 
 
