@@ -10,8 +10,11 @@ public class Newclass2 {
 	
 	private static final String filename = "input.txt";
 	
+	
 	public static void main(String[] args) throws IOException //throws IOException
 	{
+		
+		
 		BufferedReader rd = null;
 		File file=new File(filename);
 		//file.createNewFile();
@@ -39,5 +42,8 @@ public class Newclass2 {
 			}
 			
 		}
+		System.out.println("Hamaad chaudhery");
+		System.out.println("Sp13-bse-099");
 	}
+	
 }
