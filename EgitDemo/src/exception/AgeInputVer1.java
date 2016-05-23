@@ -16,9 +16,12 @@ public class AgeInputVer1
 	//replies with the year in which the person was born. Notice the program takes into consideration whether the person already had a birthday this year. Here’s the program:
 	public int getAge ( String prompt ) {
 		System.out.print ( prompt ) ;
+		
 		int age = scanner.nextInt () ;
+		
 		return age;
 		}
+	
 
 }
 
