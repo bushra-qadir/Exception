@@ -21,6 +21,7 @@ public class AgeInputVer1
 		
 		return age;
 		}
+	
 
 }
 
