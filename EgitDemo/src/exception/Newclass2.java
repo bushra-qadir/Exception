@@ -37,7 +37,7 @@ public class Newclass2 {
 				System.err.println("An IOException was caught!");
 				ex.printStackTrace();
 			}
-			
-		}
+		System.out.println("naima ibrar, fa12-bse-031");		}
 	}
 }
+
