@@ -44,13 +44,7 @@ public class Newclass2 {
 			System.out.println("Name::Sohail...........++........RegNum::Sp13-Bse-083");
 			
 		}
-<<<<<<< HEAD
-		System.out.println("Committed By Me---- Ahmed ALI Sp13-Bse-081");
 
-=======
-		System.out.println("Ahsan Riaz");
-		System.out.println("SP13-bse-123");
->>>>>>> branch 'master' of https://github.com/bushra-qadir/exception
 	}
 	
 	
