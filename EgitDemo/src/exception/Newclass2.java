@@ -15,6 +15,7 @@ public class Newclass2 {
 	{
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 <<<<<<< HEAD
 	
@@ -37,6 +38,9 @@ System.out.println("Inayat SP13-BSE-090");
 =======
 	
 >>>>>>> branch 'master' of https://github.com/bushra-qadir/exception
+>>>>>>> branch 'master' of https://github.com/bushra-qadir/Exception
+=======
+	
 >>>>>>> branch 'master' of https://github.com/bushra-qadir/Exception
 =======
 	
@@ -82,6 +86,7 @@ System.out.println("Inayat SP13-BSE-090");
 <<<<<<< HEAD
 			// Close the file.
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 
 <<<<<<< HEAD
@@ -119,6 +124,9 @@ System.out.println("Inayat SP13-BSE-090");
 >>>>>>> branch 'master' of https://github.com/bushra-qadir/Exception
 >>>>>>> branch 'master' of https://github.com/bushra-qadir/Exception
 =======
+			System.out.println("naima ibrar, fa12-bse-031");
+>>>>>>> branch 'master' of https://github.com/bushra-qadir/Exception
+=======
 			System.out.println("Mustafa here, please enter your commits below (sp13-bse-092)");
 
 >>>>>>> branch 'master' of https://github.com/bushra-qadir/Exception
@@ -130,6 +138,7 @@ System.out.println("Inayat SP13-BSE-090");
 				ex.printStackTrace();
 			}
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 <<<<<<< HEAD
 			System.out.println("Sofware Construction Lab");
@@ -150,6 +159,10 @@ System.out.println("Inayat SP13-BSE-090");
 
 =======
 <<<<<<< HEAD
+>>>>>>> branch 'master' of https://github.com/bushra-qadir/Exception
+=======
+				}
+=======
 >>>>>>> branch 'master' of https://github.com/bushra-qadir/Exception
 			
 <<<<<<< HEAD
@@ -194,6 +207,7 @@ System.out.println("Inayat SP13-BSE-090");
 >>>>>>> branch 'master' of https://github.com/bushra-qadir/Exception
 >>>>>>> branch 'master' of https://github.com/bushra-qadir/Exception
 		}
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 
@@ -284,6 +298,8 @@ System.out.println("Inayat SP13-BSE-090");
 >>>>>>> branch 'master' of https://github.com/bushra-qadir/Exception
 >>>>>>> branch 'master' of https://github.com/bushra-qadir/Exception
 =======
+=======
+>>>>>>> branch 'master' of https://github.com/bushra-qadir/Exception
 
 		
 
@@ -291,6 +307,7 @@ System.out.println("Inayat SP13-BSE-090");
 	}
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 
 
@@ -327,4 +344,16 @@ System.out.println("Inayat SP13-BSE-090");
 	
 	
 >>>>>>> branch 'master' of https://github.com/bushra-qadir/Exception
+=======
+System.out.println("please enter your commits below");
+System.out.println("shabaz, roll number:SP13-BSE-130");
+
+
+=======
+	
+	
+	
+>>>>>>> branch 'master' of https://github.com/bushra-qadir/exception
+>>>>>>> branch 'master' of https://github.com/bushra-qadir/Exception
 }
+
