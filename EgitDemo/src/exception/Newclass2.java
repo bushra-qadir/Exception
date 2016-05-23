@@ -12,6 +12,7 @@ public class Newclass2 {
 	
 	public static void main(String[] args) throws IOException //throws IOException
 	{
+		
 		BufferedReader rd = null;
 		File file=new File(filename);
 		//file.createNewFile();
@@ -30,6 +31,7 @@ public class Newclass2 {
 		}
 		finally {
 			// Close the file.
+			
 			try {
 				rd.close();
 			}
@@ -39,5 +41,8 @@ public class Newclass2 {
 			}
 			
 		}
+		System.out.println("M.Bilal");
+		System.out.println("Sp13-bse-106");
 	}
+	
 }
