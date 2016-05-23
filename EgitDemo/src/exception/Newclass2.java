@@ -14,6 +14,7 @@ public class Newclass2 {
 	public static void main(String[] args) throws IOException //throws IOException
 	{
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 <<<<<<< HEAD
 	
@@ -37,6 +38,9 @@ System.out.println("Inayat SP13-BSE-090");
 	
 >>>>>>> branch 'master' of https://github.com/bushra-qadir/exception
 >>>>>>> branch 'master' of https://github.com/bushra-qadir/Exception
+=======
+	
+>>>>>>> branch 'master' of https://github.com/bushra-qadir/Exception
 		BufferedReader rd = null;
 		File file=new File(filename);
 <<<<<<< HEAD
@@ -58,6 +62,9 @@ System.out.println("Inayat SP13-BSE-090");
 		//file.createNewFile();
 		try {
 			// Open the file for reading.
+			System.out.println("Ali imtiaz");
+			System.out.println("sp13-bse-005");
+			
 			rd = new BufferedReader(new FileReader(new File(filename)));
 			
 			// Read all contents of the file.
@@ -74,6 +81,7 @@ System.out.println("Inayat SP13-BSE-090");
 		finally {
 <<<<<<< HEAD
 			// Close the file.
+<<<<<<< HEAD
 
 
 <<<<<<< HEAD
@@ -109,6 +117,10 @@ System.out.println("Inayat SP13-BSE-090");
 
 =======
 >>>>>>> branch 'master' of https://github.com/bushra-qadir/Exception
+>>>>>>> branch 'master' of https://github.com/bushra-qadir/Exception
+=======
+			System.out.println("Mustafa here, please enter your commits below (sp13-bse-092)");
+
 >>>>>>> branch 'master' of https://github.com/bushra-qadir/Exception
 			try {
 				rd.close();
@@ -182,6 +194,7 @@ System.out.println("Inayat SP13-BSE-090");
 >>>>>>> branch 'master' of https://github.com/bushra-qadir/Exception
 >>>>>>> branch 'master' of https://github.com/bushra-qadir/Exception
 		}
+<<<<<<< HEAD
 <<<<<<< HEAD
 
 
@@ -270,7 +283,13 @@ System.out.println("Inayat SP13-BSE-090");
 >>>>>>> branch 'master' of https://github.com/bushra-qadir/Exception
 >>>>>>> branch 'master' of https://github.com/bushra-qadir/Exception
 >>>>>>> branch 'master' of https://github.com/bushra-qadir/Exception
+=======
+
+		
+
+>>>>>>> branch 'master' of https://github.com/bushra-qadir/Exception
 	}
+<<<<<<< HEAD
 <<<<<<< HEAD
 
 
@@ -302,5 +321,10 @@ System.out.println("Inayat SP13-BSE-090");
 >>>>>>> branch 'master' of https://github.com/bushra-qadir/Exception
 >>>>>>> branch 'master' of https://github.com/bushra-qadir/Exception
 >>>>>>> branch 'master' of https://github.com/bushra-qadir/Exception
+>>>>>>> branch 'master' of https://github.com/bushra-qadir/Exception
+=======
+	
+	
+	
 >>>>>>> branch 'master' of https://github.com/bushra-qadir/Exception
 }
