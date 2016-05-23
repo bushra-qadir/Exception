@@ -43,11 +43,62 @@ public class Newclass2 {
 				System.err.println("An IOException was caught!");
 				ex.printStackTrace();
 			}
+<<<<<<< HEAD
 			
+=======
+<<<<<<< HEAD
+			System.out.println("name Najeebullah");
+			System.out.println("Reg sp13-bse-076");
+=======
+<<<<<<< HEAD
+			System.out.println("Sofware Construction Lab");
+			System.out.println("Name::Sohail...........++........RegNum::Sp13-Bse-083");
+>>>>>>> branch 'master' of https://github.com/bushra-qadir/Exception
+			
+=======
+			System.out.println("Bushra here, please enter your commits below");
+			System.out.println("NIAZ AHMAD, roll number:SP13-BSE-063");
+<<<<<<< HEAD
+>>>>>>> branch 'master' of https://github.com/bushra-qadir/exception
+		}
+<<<<<<< HEAD
+		System.out.println("Usman Alam ");
+		System.out.println("sp13-bse-077");
+		
+=======
+=======
+>>>>>>> branch 'master' of https://github.com/bushra-qadir/Exception
 		}
 
+<<<<<<< HEAD
+=======
+		System.out.println("Hamaad chaudhery");
+		System.out.println("Sp13-bse-099");
+
+		System.out.println("Committed By Me---- Ahmed ALI Sp13-Bse-081");
+
+
+		System.out.println("Ahsan Riaz");
+		System.out.println("SP13-bse-123");
+>>>>>>> branch 'master' of https://github.com/bushra-qadir/exception
+
+>>>>>>> branch 'master' of https://github.com/bushra-qadir/Exception
+>>>>>>> branch 'master' of https://github.com/bushra-qadir/Exception
 	}
+<<<<<<< HEAD
 	
 	
 	
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+
+=======
+	
+>>>>>>> branch 'master' of https://github.com/bushra-qadir/Exception
+=======
+
+
+>>>>>>> branch 'master' of https://github.com/bushra-qadir/Exception
+>>>>>>> branch 'master' of https://github.com/bushra-qadir/Exception
 }
