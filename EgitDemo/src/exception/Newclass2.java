@@ -14,6 +14,7 @@ public class Newclass2 {
 	{
 		BufferedReader rd = null;
 		File file=new File(filename);
+		
 		//file.createNewFile();
 		try {
 			// Open the file for reading.
@@ -22,6 +23,8 @@ public class Newclass2 {
 			// Read all contents of the file.
 			String inputLine = null;
 			while((inputLine = rd.readLine()) != null)
+				System.out.println("Nabeel Amjad");
+			System.out.println("SP13-BSE-012");
 				System.out.println(inputLine);
 		}
 		catch(IOException ex) {
