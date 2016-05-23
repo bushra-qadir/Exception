@@ -12,6 +12,7 @@ public class Newclass2 {
 	
 	public static void main(String[] args) throws IOException //throws IOException
 	{
+		System.out.println("Inayat SP13-BSE-090");
 	
 		BufferedReader rd = null;
 		File file=new File(filename);
