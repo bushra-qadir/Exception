@@ -27,22 +27,24 @@ public class Newclass2 {
 		File file=new File(filename);
 
 
+
 		System.out.println("Abdul hakeem (sp13-bse-110)");
 		System.out.println("Abdul hakeem (sp13-bse-110)");
 
 
 
 
-		//file.createNewFile();
+	//file.createNewFile();
 		try {
 			// Open the file for reading.
+			System.out.println("Ali imtiaz");
+			System.out.println("sp13-bse-005");
+			
 			rd = new BufferedReader(new FileReader(new File(filename)));
 			
 			// Read all contents of the file.
 			String inputLine = null;
 			while((inputLine = rd.readLine()) != null)
-				System.out.println("Nabeel Amjad");
-			System.out.println("SP13-BSE-012");
 				System.out.println(inputLine);
 		}
 		catch(IOException ex) {
@@ -51,6 +53,7 @@ public class Newclass2 {
 		}
 		finally {
 
+
 			// Close the file.
 
 		
@@ -58,8 +61,8 @@ public class Newclass2 {
 			System.out.println("Abdul Rehman Ali");
 			System.out.println("SP13-BSE-004 ");
 
-			System.out.println("Mustafa here, please enter your commits below (sp13-bse-092)");
 
+			System.out.println("Mustafa here, please enter your commits below (sp13-bse-092)");
 
 			try {
 				rd.close();
@@ -68,6 +71,7 @@ public class Newclass2 {
 				System.err.println("An IOException was caught!");
 				ex.printStackTrace();
 			}
+
 
 
 
@@ -87,7 +91,6 @@ public class Newclass2 {
 		}
 
 
-
 		System.out.println("M.Bilal");
 		System.out.println("Sp13-bse-106");
 
@@ -97,10 +100,9 @@ public class Newclass2 {
 
 		System.out.println("Usman Alam ");
 		System.out.println("sp13-bse-077");
-		
+
 
 		}
-
 
 		System.out.println("Hamaad chaudhery");
 		System.out.println("Sp13-bse-099");
@@ -110,21 +112,28 @@ public class Newclass2 {
 
 
 
-}
-		
-
-
-
 
 		
 
 
 
+
+		
+
+
+
+
+
+
+
+
+
+
+
+
+	}
+	
+	
+	
 }
-
-
-
-
-
-
 
