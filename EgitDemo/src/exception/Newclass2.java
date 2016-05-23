@@ -15,6 +15,7 @@ public class Newclass2 {
 
 
 	{
+		System.out.println("Masroor Reg NO: Sp13-bse-055");
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
