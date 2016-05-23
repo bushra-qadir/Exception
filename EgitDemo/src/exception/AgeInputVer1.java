@@ -18,6 +18,7 @@ public class AgeInputVer1
 		System.out.print ( prompt ) ;
 		int age = scanner.nextInt () ;
 		return age;
+		
 		}
 
 }
