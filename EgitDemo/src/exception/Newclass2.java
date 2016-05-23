@@ -15,7 +15,17 @@ public class Newclass2 {
 	
 		BufferedReader rd = null;
 		File file=new File(filename);
+<<<<<<< HEAD
 		
+=======
+<<<<<<< HEAD
+		
+		
+=======
+		System.out.println("Abdul hakeem (sp13-bse-110)");
+		System.out.println("Abdul hakeem (sp13-bse-110)");
+>>>>>>> branch 'master' of https://github.com/bushra-qadir/Exception.git
+>>>>>>> branch 'master' of https://github.com/bushra-qadir/Exception
 		//file.createNewFile();
 		try {
 			// Open the file for reading.
@@ -34,7 +44,10 @@ public class Newclass2 {
 		}
 		finally {
 			// Close the file.
+			System.out.println("Abdul Rehman Ali");
+			System.out.println("SP13-BSE-004 ");
 			System.out.println("Mustafa here, please enter your commits below (sp13-bse-092)");
+
 
 			try {
 				rd.close();
@@ -62,6 +75,10 @@ public class Newclass2 {
 >>>>>>> branch 'master' of https://github.com/bushra-qadir/exception
 		}
 <<<<<<< HEAD
+		System.out.println("AMIR TANOLI");
+		System.out.println("FA12-BSE-246");
+=======
+<<<<<<< HEAD
 		System.out.println("Usman Alam ");
 		System.out.println("sp13-bse-077");
 		
@@ -87,8 +104,11 @@ public class Newclass2 {
 	}
 <<<<<<< HEAD
 	
+<<<<<<< HEAD
 	
 	
+=======
+>>>>>>> branch 'master' of https://github.com/bushra-qadir/Exception
 =======
 <<<<<<< HEAD
 <<<<<<< HEAD
