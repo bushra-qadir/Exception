@@ -15,6 +15,8 @@ public class Newclass2 {
 	
 		BufferedReader rd = null;
 		File file=new File(filename);
+		System.out.println("Abdul hakeem (sp13-bse-110)");
+		System.out.println("Abdul hakeem (sp13-bse-110)");
 		//file.createNewFile();
 		try {
 			// Open the file for reading.
@@ -51,8 +53,13 @@ public class Newclass2 {
 			}
 			
 		}
+<<<<<<< HEAD
+		System.out.println("Committed By Me---- Ahmed ALI Sp13-Bse-081");
+
+=======
 		System.out.println("Ahsan Riaz");
 		System.out.println("SP13-bse-123");
+>>>>>>> branch 'master' of https://github.com/bushra-qadir/exception
 	}
 	
 	
