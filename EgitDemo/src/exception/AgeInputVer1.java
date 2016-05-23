@@ -19,5 +19,6 @@ public class AgeInputVer1
 		int age = scanner.nextInt () ;
 		return age;
 		}
+
 }
 
