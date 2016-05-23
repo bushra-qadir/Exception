@@ -16,6 +16,7 @@ public class Newclass2 {
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 <<<<<<< HEAD
 	
@@ -38,6 +39,9 @@ System.out.println("Inayat SP13-BSE-090");
 =======
 	
 >>>>>>> branch 'master' of https://github.com/bushra-qadir/exception
+>>>>>>> branch 'master' of https://github.com/bushra-qadir/Exception
+=======
+	
 >>>>>>> branch 'master' of https://github.com/bushra-qadir/Exception
 =======
 	
@@ -87,6 +91,7 @@ System.out.println("Inayat SP13-BSE-090");
 			// Close the file.
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 
 <<<<<<< HEAD
@@ -127,6 +132,9 @@ System.out.println("Inayat SP13-BSE-090");
 			System.out.println("naima ibrar, fa12-bse-031");
 >>>>>>> branch 'master' of https://github.com/bushra-qadir/Exception
 =======
+			System.out.println("naima ibrar, fa12-bse-031");
+>>>>>>> branch 'master' of https://github.com/bushra-qadir/Exception
+=======
 			System.out.println("Mustafa here, please enter your commits below (sp13-bse-092)");
 
 >>>>>>> branch 'master' of https://github.com/bushra-qadir/Exception
@@ -137,6 +145,7 @@ System.out.println("Inayat SP13-BSE-090");
 				System.err.println("An IOException was caught!");
 				ex.printStackTrace();
 			}
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 
@@ -159,6 +168,10 @@ System.out.println("Inayat SP13-BSE-090");
 
 =======
 <<<<<<< HEAD
+>>>>>>> branch 'master' of https://github.com/bushra-qadir/Exception
+=======
+				}
+=======
 >>>>>>> branch 'master' of https://github.com/bushra-qadir/Exception
 =======
 				}
@@ -210,6 +223,7 @@ System.out.println("Inayat SP13-BSE-090");
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 
 		System.out.println("Ahsan Riaz");
@@ -286,7 +300,25 @@ System.out.println("Inayat SP13-BSE-090");
 <<<<<<< HEAD
 =======
 <<<<<<< HEAD
+=======
+
+		
+
+>>>>>>> branch 'master' of https://github.com/bushra-qadir/Exception
+	}
+<<<<<<< HEAD
+System.out.println("please enter your commits below");
+System.out.println("shabaz, roll number:SP13-BSE-130");
+
+
+=======
+	
+	
+	
+>>>>>>> branch 'master' of https://github.com/bushra-qadir/exception
+>>>>>>> branch 'master' of https://github.com/bushra-qadir/Exception
 }
+<<<<<<< HEAD
 =======
 >>>>>>> branch 'master' of https://github.com/bushra-qadir/exception
 >>>>>>> branch 'master' of https://github.com/bushra-qadir/Exception
@@ -356,4 +388,6 @@ System.out.println("shabaz, roll number:SP13-BSE-130");
 >>>>>>> branch 'master' of https://github.com/bushra-qadir/exception
 >>>>>>> branch 'master' of https://github.com/bushra-qadir/Exception
 }
+=======
+>>>>>>> branch 'master' of https://github.com/bushra-qadir/Exception
 
