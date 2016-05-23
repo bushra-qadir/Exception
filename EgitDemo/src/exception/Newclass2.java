@@ -67,6 +67,8 @@ public class Newclass2 {
 >>>>>>> branch 'master' of https://github.com/bushra-qadir/exception
 
 	}
+System.out.println("please enter your commits below");
+System.out.println("shabaz, roll number:SP13-BSE-130");
 
 
 }
