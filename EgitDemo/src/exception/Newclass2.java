@@ -12,6 +12,7 @@ public class Newclass2 {
 	
 	public static void main(String[] args) throws IOException //throws IOException
 	{
+	
 		BufferedReader rd = null;
 		File file=new File(filename);
 		//file.createNewFile();
@@ -30,7 +31,12 @@ public class Newclass2 {
 		}
 		finally {
 			// Close the file.
+
 			System.out.println("Abdullah Malik      SP13-BSE-072");
+
+			System.out.println("Mustafa here, please enter your commits below (sp13-bse-092)");
+
+
 			try {
 				rd.close();
 			}
@@ -40,5 +46,10 @@ public class Newclass2 {
 			}
 			
 		}
+		System.out.println("Ahsan Riaz");
+		System.out.println("SP13-bse-123");
 	}
+	
+	
+	
 }
