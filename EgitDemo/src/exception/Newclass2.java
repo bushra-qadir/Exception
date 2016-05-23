@@ -56,13 +56,18 @@ public class Newclass2 {
 
 			// Close the file.
 
+
 		
 	// Close the file.
 			System.out.println("Abdul Rehman Ali");
 			System.out.println("SP13-BSE-004 ");
 
 
+
+			System.out.println("naima ibrar, fa12-bse-031");
+
 			System.out.println("Mustafa here, please enter your commits below (sp13-bse-092)");
+
 
 			try {
 				rd.close();
@@ -76,12 +81,14 @@ public class Newclass2 {
 
 
 
+
 			System.out.println("name Najeebullah");
 			System.out.println("Reg sp13-bse-076");
 
 			System.out.println("Sofware Construction Lab");
 			System.out.println("Name::Sohail...........++........RegNum::Sp13-Bse-083");
 
+		}
 			
 
 			System.out.println("Bushra here, please enter your commits below");
@@ -104,36 +111,29 @@ public class Newclass2 {
 
 		}
 
-		System.out.println("Hamaad chaudhery");
-		System.out.println("Sp13-bse-099");
-
-
-		System.out.println("Committed By Me---- Ahmed ALI Sp13-Bse-081");
-
-
-
-
-		
-
-
-
-
-		
-
-
-
-
-
-
-
-
-
-
-
-
-	}
-	
-	
-	
 }
+
+
+		
+
+
+		
+
+
+
+
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
 
