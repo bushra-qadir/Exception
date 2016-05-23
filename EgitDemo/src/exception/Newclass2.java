@@ -34,17 +34,17 @@ public class Newclass2 {
 		}
 		finally {
 			// Close the file.
-<<<<<<< HEAD
+
 
 			System.out.println("Qandeel Haider  Sp13-BSE-066");
 
 			System.out.println("Mustafa here, please enter your commits below (sp13-bse-092)");
 
 
-=======
+
 			System.out.println("Mustafa here, please enter your commits below (sp13-bse-092)");
 
->>>>>>> branch 'master' of https://github.com/bushra-qadir/Exception
+
 			try {
 				rd.close();
 			}
@@ -52,27 +52,22 @@ public class Newclass2 {
 				System.err.println("An IOException was caught!");
 				ex.printStackTrace();
 			}
-<<<<<<< HEAD
+
 			System.out.println("name Najeebullah");
 			System.out.println("Reg sp13-bse-076");
-=======
-<<<<<<< HEAD
+
 			System.out.println("Sofware Construction Lab");
 			System.out.println("Name::Sohail...........++........RegNum::Sp13-Bse-083");
->>>>>>> branch 'master' of https://github.com/bushra-qadir/Exception
-			
-=======
+
 			System.out.println("Bushra here, please enter your commits below");
 			System.out.println("NIAZ AHMAD, roll number:SP13-BSE-063");
-<<<<<<< HEAD
->>>>>>> branch 'master' of https://github.com/bushra-qadir/exception
+
 		}
-<<<<<<< HEAD
+
 		System.out.println("Usman Alam ");
 		System.out.println("sp13-bse-077");
 		
-=======
-=======
+
 		}
 
 		System.out.println("Hamaad chaudhery");
@@ -83,18 +78,7 @@ public class Newclass2 {
 
 		System.out.println("Ahsan Riaz");
 		System.out.println("SP13-bse-123");
->>>>>>> branch 'master' of https://github.com/bushra-qadir/exception
-
->>>>>>> branch 'master' of https://github.com/bushra-qadir/Exception
+}}
 	}
-<<<<<<< HEAD
-<<<<<<< HEAD
 
-=======
-	
->>>>>>> branch 'master' of https://github.com/bushra-qadir/Exception
-=======
-
-
->>>>>>> branch 'master' of https://github.com/bushra-qadir/Exception
 }
