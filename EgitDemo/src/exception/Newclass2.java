@@ -78,7 +78,7 @@ public class Newclass2 {
 
 		System.out.println("Ahsan Riaz");
 		System.out.println("SP13-bse-123");
-}}
+
 	}
 
 }
