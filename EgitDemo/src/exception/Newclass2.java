@@ -14,6 +14,8 @@ public class Newclass2 {
 	{
 		BufferedReader rd = null;
 		File file=new File(filename);
+		
+		
 		//file.createNewFile();
 		try {
 			// Open the file for reading.
@@ -30,6 +32,8 @@ public class Newclass2 {
 		}
 		finally {
 			// Close the file.
+			System.out.println("Abdul Rehman Ali");
+			System.out.println("SP13-BSE-004");
 			try {
 				rd.close();
 			}
