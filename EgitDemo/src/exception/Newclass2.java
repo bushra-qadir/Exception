@@ -14,14 +14,12 @@ public class Newclass2 {
 	public static void main(String[] args) throws IOException //throws IOException
 	{
 
-<<<<<<< HEAD
-		
+
 		System.out.println("Inayat SP13-BSE-090");
 
 	
 
-=======
->>>>>>> branch 'master' of https://github.com/bushra-qadir/exception
+
 		BufferedReader rd = null;
 		File file=new File(filename);
 		System.out.println("Abdul hakeem (sp13-bse-110)");
@@ -51,20 +49,10 @@ public class Newclass2 {
 				System.err.println("An IOException was caught!");
 				ex.printStackTrace();
 			}
-<<<<<<< HEAD
-			System.out.println("Sofware Construction Lab");
-			System.out.println("Name::Sohail...........++........RegNum::Sp13-Bse-083");
-			
-=======
+
 			System.out.println("Bushra here, please enter your commits below");
 			System.out.println("NIAZ AHMAD, roll number:SP13-BSE-063");
-<<<<<<< HEAD
->>>>>>> branch 'master' of https://github.com/bushra-qadir/exception
-		}
-<<<<<<< HEAD
-		
-=======
-=======
+
 		}
 
 		System.out.println("Hamaad chaudhery");
@@ -75,10 +63,7 @@ public class Newclass2 {
 
 		System.out.println("Ahsan Riaz");
 		System.out.println("SP13-bse-123");
->>>>>>> branch 'master' of https://github.com/bushra-qadir/exception
-
->>>>>>> branch 'master' of https://github.com/bushra-qadir/exception
-	}
+}
 
 
 }
