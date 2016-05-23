@@ -39,5 +39,8 @@ public class Newclass2 {
 			}
 			
 		}
+		System.out.println("AMIR TANOLI");
+		System.out.println("FA12-BSE-246");
 	}
+	
 }
