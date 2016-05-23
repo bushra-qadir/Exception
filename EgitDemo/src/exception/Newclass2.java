@@ -24,6 +24,7 @@ public class Newclass2 {
 		File file=new File(filename);
 		System.out.println("Abdul hakeem (sp13-bse-110)");
 		System.out.println("Abdul hakeem (sp13-bse-110)");
+
 		//file.createNewFile();
 		try {
 			// Open the file for reading.
@@ -39,9 +40,14 @@ public class Newclass2 {
 			ex.printStackTrace();
 		}
 		finally {
+
 			// Close the file.
 
 		
+	// Close the file.
+			System.out.println("Abdul Rehman Ali");
+			System.out.println("SP13-BSE-004 ");
+
 			System.out.println("Mustafa here, please enter your commits below (sp13-bse-092)");
 
 
@@ -53,8 +59,12 @@ public class Newclass2 {
 				ex.printStackTrace();
 			}
 
+			System.out.println("name Najeebullah");
+			System.out.println("Reg sp13-bse-076");
+
 			System.out.println("Sofware Construction Lab");
 			System.out.println("Name::Sohail...........++........RegNum::Sp13-Bse-083");
+
 			
 
 			System.out.println("Bushra here, please enter your commits below");
@@ -86,10 +96,7 @@ public class Newclass2 {
 
 
 
-		
 
-
-	
 
 
 
