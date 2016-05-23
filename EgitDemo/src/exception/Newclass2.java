@@ -30,7 +30,12 @@ public class Newclass2 {
 		}
 		finally {
 			// Close the file.
+
 			System.out.println("Qandeel Haider  Sp13-BSE-066");
+
+			System.out.println("Mustafa here, please enter your commits below (sp13-bse-092)");
+
+
 			try {
 				rd.close();
 			}
