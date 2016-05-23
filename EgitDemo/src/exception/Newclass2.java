@@ -582,8 +582,18 @@ System.out.println("shabaz, roll number:SP13-BSE-130");
 
 		
 
+<<<<<<< HEAD
+>>>>>>> branch 'master' of https://github.com/bushra-qadir/Exception
+	}
+<<<<<<< HEAD
+System.out.println("please enter your commits below");
+System.out.println("shabaz, roll number:SP13-BSE-130");
+
+System.out.println("Ahmed, roll number:SP13-BSE-081");
+=======
 
 		
+>>>>>>> branch 'master' of https://github.com/bushra-qadir/exception
 
 
 
