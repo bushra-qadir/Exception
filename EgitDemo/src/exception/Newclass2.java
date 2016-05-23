@@ -53,8 +53,13 @@ public class Newclass2 {
 				ex.printStackTrace();
 			}
 <<<<<<< HEAD
+			System.out.println("name Najeebullah");
+			System.out.println("Reg sp13-bse-076");
+=======
+<<<<<<< HEAD
 			System.out.println("Sofware Construction Lab");
 			System.out.println("Name::Sohail...........++........RegNum::Sp13-Bse-083");
+>>>>>>> branch 'master' of https://github.com/bushra-qadir/Exception
 			
 =======
 			System.out.println("Bushra here, please enter your commits below");
@@ -83,7 +88,11 @@ public class Newclass2 {
 >>>>>>> branch 'master' of https://github.com/bushra-qadir/Exception
 	}
 <<<<<<< HEAD
+<<<<<<< HEAD
+
+=======
 	
+>>>>>>> branch 'master' of https://github.com/bushra-qadir/Exception
 =======
 
 
