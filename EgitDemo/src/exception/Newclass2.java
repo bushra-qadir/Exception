@@ -15,6 +15,8 @@ public class Newclass2 {
 	
 		BufferedReader rd = null;
 		File file=new File(filename);
+		System.out.println("Abdul hakeem (sp13-bse-110)");
+		System.out.println("Abdul hakeem (sp13-bse-110)");
 		//file.createNewFile();
 		try {
 			// Open the file for reading.
@@ -40,9 +42,14 @@ public class Newclass2 {
 				System.err.println("An IOException was caught!");
 				ex.printStackTrace();
 			}
+<<<<<<< HEAD
 			System.out.println("Sofware Construction Lab");
 			System.out.println("Name::Sohail...........++........RegNum::Sp13-Bse-083");
 			
+=======
+			System.out.println("Bushra here, please enter your commits below");
+			System.out.println("NIAZ AHMAD, roll number:SP13-BSE-063");
+>>>>>>> branch 'master' of https://github.com/bushra-qadir/exception
 		}
 
 	}
